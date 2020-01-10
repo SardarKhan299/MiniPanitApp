@@ -1,0 +1,4 @@
+#Fri Jan 10 22:33:15 PKT 2020
+base.0=D\:\\AndroidApps\\AndroidDesignApp\\MiniPaintApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
